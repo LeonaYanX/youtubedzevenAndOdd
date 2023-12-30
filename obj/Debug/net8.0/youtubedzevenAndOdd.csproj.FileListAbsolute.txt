@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\youtubedzevenAndOdd\bin\Debug\net8.0\youtubedzevenAndOdd.exe
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\youtubedzevenAndOdd\bin\Debug\net8.0\youtubedzevenAndOdd.deps.json
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\youtubedzevenAndOdd\bin\Debug\net8.0\youtubedzevenAndOdd.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\youtubedzevenAndOdd\bin\Debug\net8.0\youtubedzevenAndOdd.dll
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\youtubedzevenAndOdd\bin\Debug\net8.0\youtubedzevenAndOdd.pdb
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\youtubedzevenAndOdd\obj\Debug\net8.0\youtubedzevenAndOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\youtubedzevenAndOdd\obj\Debug\net8.0\youtubedzevenAndOdd.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\youtubedzevenAndOdd\obj\Debug\net8.0\youtubedzevenAndOdd.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\youtubedzevenAndOdd\obj\Debug\net8.0\youtubedzevenAndOdd.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\youtubedzevenAndOdd\obj\Debug\net8.0\youtubedzevenAndOdd.sourcelink.json
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\youtubedzevenAndOdd\obj\Debug\net8.0\youtubedzevenAndOdd.dll
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\youtubedzevenAndOdd\obj\Debug\net8.0\refint\youtubedzevenAndOdd.dll
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\youtubedzevenAndOdd\obj\Debug\net8.0\youtubedzevenAndOdd.pdb
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\youtubedzevenAndOdd\obj\Debug\net8.0\youtubedzevenAndOdd.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\youtubedzevenAndOdd\obj\Debug\net8.0\ref\youtubedzevenAndOdd.dll
